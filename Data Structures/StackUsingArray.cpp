@@ -193,7 +193,7 @@ int main()
             default:
             {
                 if (option!=10)
-                    cout<<"Please enter valid option number"<<endl;
+                    cout<<"Please enter a valid option number"<<endl;
             }
         }
     }while (option!=10);
